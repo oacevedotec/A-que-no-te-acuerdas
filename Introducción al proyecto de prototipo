@@ -1,0 +1,31 @@
+Como proyecto para el curso de arquitectura de computadores, se ha elegido un juego
+
+de memoria, capaz de ayudar a las personas a mejorar su capacidad de retención de
+
+información. Su uso principal es que los niños de edades tempranas estimulen el uso de
+
+la memoria, necesaria posteriormente para otras actividades de la vida cotidiana.
+
+Para elaborar el proyecto se usaron los siguientes materiales: un Arduino, una tarjeta
+
+perforada sin buses de 13x15cm, 16 Leds, 16 botones o push buttons, resistencias de
+
+330 ohms con 1⁄2 Watt, estaño 60/40, un alambre o cable UTP y una batería 9V. Más
+
+adelante en este documento se explicarán a detalle cada uno de los elementos que se
+
+necesitan para poder diseñar el producto, como su funcionalidad y cómo fueron
+
+implementados para el diseño del producto final.
+
+También se incluirá una sección donde se explican algunas definiciones y conceptos
+
+necesarios para la elaboración del proyecto, así como una explicación a fondo del
+
+prototipo, los objetivos que se pretenden alcanzar con su creación, nuestro plan de
+
+trabajo y el cronograma seguido para la realización de este, nuestras conclusiones
+
+acerca de lo logrado con el proyecto y algunos breves comentarios acerca de la
+
+realización del proyecto en general.
